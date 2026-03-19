@@ -67,8 +67,8 @@ Ensure the following tools are installed on your machine:
 
 The backend comes preloaded with two student accounts for testing:
 
-Student Number Initial Balance (XAF)
-S12345 800,000
-S54321 500,000
+Student Number -> Initial Balance (XAF):
+S12345 -> 800,000
+S54321 -> 500,000
 
 Use these student numbers to test successful payments. If you enter any other student number, you will receive a `Student not found` error.
