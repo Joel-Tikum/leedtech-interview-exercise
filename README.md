@@ -4,7 +4,7 @@ This project implements a one-time fee payment feature with an incentive matchin
 
 ## Project Structure
 
-The project is organized into two main directories within the `LeedTech` folder:
+The project is organized into two main directories:
 
 - `one_time_fee_payment_backend` – Java Spring Boot application (backend)
 - `one_time_fee_payment_frontend` – Angular application (frontend)
@@ -24,11 +24,7 @@ Ensure the following tools are installed on your machine:
 ### 1. Backend Setup
 
 1. Open a terminal and navigate to the backend folder:
-
-   ```bash
-   cd LeedTech/one_time_fee_payment_backend
-
-   ```
+   - one_time_fee_payment_backend
 
 2. Build the application using Maven:
 
@@ -46,11 +42,7 @@ Ensure the following tools are installed on your machine:
 ### 1. Frontend Setup
 
 1. Open a terminal and navigate to the backend folder:
-
-   ```bash
-   cd LeedTech/one_time_fee_payment_frontend
-
-   ```
+   - one_time_fee_payment_frontend
 
 2. Install the required npm packages:
 
